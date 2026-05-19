@@ -20,7 +20,6 @@ Minhas decisões de stack são baseadas em performance, resiliência e controle 
     ![Supabase](https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=white)
     ![Vector Databases](https://img.shields.io/badge/Vector_DBs_(RAG)-121212?style=for-the-badge&logo=databricks&logoColor=white)
 * **Automação & IA:**
-  
     ![n8n](https://img.shields.io/badge/n8n_Workflows-121212?style=for-the-badge&logo=n8n&logoColor=white)
     ![OpenAI](https://img.shields.io/badge/OpenAI_LLMs-121212?style=for-the-badge&logo=openai&logoColor=white)
     ![Claude](https://img.shields.io/badge/Claude_AI-121212?style=for-the-badge&logo=anthropic&logoColor=white)
