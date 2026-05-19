@@ -1,6 +1,6 @@
 <div align="center">
   <img src="banner-outdoor.png" alt="Cyberpunk Workspace Backend & AI Engineer" width="100%" style="border-radius: 8px; margin-bottom: 24px;" />
-</div>
+
 
 # Matheus Lima
 **Founder @ TheBaseCompany | Backend & AI Engineer**
@@ -31,7 +31,7 @@ Minhas decisões de stack são baseadas em performance, resiliência e controle 
 </p>
 
 ---
-
+</div>
 ### 📬 Contato & Links
 * **LinkedIn:** [https://www.linkedin.com/in/matheus-lima-190931186/](https://www.linkedin.com/in/matheus-lima-190931186/)
 * **Localização:** Rio de Janeiro, Brasil
