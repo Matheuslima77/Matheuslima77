@@ -5,9 +5,6 @@
 # Matheus Lima
 **Founder @ TheBaseCompany | Backend & AI Engineer**
 
-# Matheus Lima
-**Founder @ TheBaseCompany | Backend & AI Engineer**
-
 ### ⚙️ Tech Stack & Infraestrutura
 
 Minhas decisões de stack são baseadas em performance, resiliência e controle de estado:
