@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="assets/banner-outdoor.png" alt="Workspace Backend & AI Engineer" width="100%" style="border-radius: 8px; margin-bottom: 24px;" />
+  <img src="banner-outdoor.png" alt="Cyberpunk Workspace Backend & AI Engineer" width="100%" style="border-radius: 8px; margin-bottom: 24px;" />
 </div>
+
+# Matheus Lima
+**Founder @ TheBaseCompany | Backend & AI Engineer**
 
 # Matheus Lima
 **Founder @ TheBaseCompany | Backend & AI Engineer**
