@@ -46,5 +46,5 @@ O sistema integra automação de vendas e atendimento autônomo via WhatsApp/Ins
 ---
 
 ### 📬 Contato & Links
-* **LinkedIn:** [in/matheus-lima-190931186](#)
+* **LinkedIn:** [https://www.linkedin.com/in/matheus-lima-190931186/](#)
 * **Localização:** Rio de Janeiro, Brasil
