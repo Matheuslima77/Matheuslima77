@@ -32,6 +32,7 @@ Minhas decisões de stack são baseadas em performance, resiliência e controle 
 ### 🏗️ Arquitetura em Destaque
 
 #### [Omnichannel Real Estate CRM & AI Orchestration](https://github.com/Matheuslima77/thebasecompany-architecture-showcase)
+**Link aperentação:** https://www.youtube.com/watch?v=sgbTkTDxTHw
 *Sistema proprietário (Closed-Source) projetado para o mercado imobiliário.*
 
 O sistema integra automação de vendas e atendimento autônomo via WhatsApp/Instagram, qualificando leads e alimentando diretamente um pipeline Kanban de gestão.
